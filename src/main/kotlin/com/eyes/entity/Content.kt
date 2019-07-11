@@ -14,9 +14,9 @@ class Content(
         @Column(name="TYPE")
         val type : String,
         @Column(name="WIDTH")
-        val width : Int,
+        val width : Int?,
         @Column(name="HEIGHT")
-        val height : Int,
+        val height : Int?,
         @Column(name="DATA")
         val data : String,
         @Column(name="CREATED_DATE")
