@@ -104,7 +104,7 @@ INSERT INTO CONTENT(TYPE, WIDTH, HEIGHT, DATA, CREATED_DATE, USER_ID) VALUES ('v
 INSERT INTO CONTENT(TYPE, WIDTH, HEIGHT, DATA, CREATED_DATE, USER_ID) VALUES ('image','400','400','https://source.unsplash.com/random/400x400',{ts '2019-01-17 18:47:52.69'},1);
 INSERT INTO CONTENT(TYPE, DATA, CREATED_DATE, USER_ID) VALUES ('text', 'Without continual growth and progress, such words as improvement, achievement, and success have no meaning.',{ts '2019-01-17 18:47:52.69'},1);
 
-INSERT INTO CONTENT(TYPE, WIDTH, HEIGHT, DATA, CREATED_DATE, USER_ID) VALUES ('video','720','1280','https://storage.coverr.co/videos/Footboys?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTYyODU2MDQ3LCJleHAiOjE1NjI4NTk2NDd9.aPPKpdTIHIcsUxgK36MRKfa9kahykz2WfdVPbFWGf-A',{ts '2019-01-17 18:47:52.69'},2);
+INSERT INTO CONTENT(TYPE, WIDTH, HEIGHT, DATA, CREATED_DATE, USER_ID) VALUES ('video','720','1280','https://storage.coverr.co/videos/Parkboat?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjExNDMyN0NEOTRCMUFCMTFERTE3IiwiaWF0IjoxNTY0NDA3NDAxLCJleHAiOjE1NjQ0MTEwMDF9.H28w0oY5dF4KGtTBwhcLAmBVMxfwo2GNhbpiE1bW3KI',{ts '2019-01-17 18:47:52.69'},2);
 INSERT INTO CONTENT(TYPE, WIDTH, HEIGHT, DATA, CREATED_DATE, USER_ID) VALUES ('image','960','638','https://www.essentiallysports.com/wp-content/uploads/football-2518982_960_720.jpg',{ts '2019-01-17 18:47:52.69'},2);
 INSERT INTO CONTENT(TYPE, DATA, CREATED_DATE, USER_ID) VALUES ('text', 'Without continual growth and progress, such words as improvement, achievement, and success have no meaning.',{ts '2019-01-17 18:47:52.69'},2);
 
